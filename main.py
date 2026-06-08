@@ -22,7 +22,7 @@ import requests
 CONFIG = {
     "url": os.getenv(
         "BMS_URL",
-        "https://in.bookmyshow.com/movies/hyderabad/peddi/buytickets/ET00439772"
+        "https://in.bookmyshow.com/movies/hyderabad/disclosure-day/buytickets/ET00439772"
     ),
     "dates": os.getenv("BMS_DATES", ""),          # comma-separated YYYYMMDD, empty = from URL
     "theatre": os.getenv("BMS_THEATRE", ""),       # substring filter, empty = all
