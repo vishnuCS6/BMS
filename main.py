@@ -607,7 +607,7 @@ def main():
         )
     else:
         print("  ✅ No changes since last check.")
-         send_email(
+        send_email(
            f"BMS Status: {movie_info['name']} - No changes",
            [], filtered, movie_info,
         )
