@@ -14,7 +14,7 @@
       "date": "20260608",
       "cat": "GOLD",
       "price": "420.00",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
@@ -22,8 +22,8 @@
     "20260609": "AVAILABLE",
     "20260610": "AVAILABLE",
     "20260611": "AVAILABLE",
-    "20260612": "NOT_OPEN",
-    "20260613": "NOT_OPEN",
+    "20260612": "AVAILABLE",
+    "20260613": "AVAILABLE",
     "20260614": "NOT_OPEN"
   }
 }
